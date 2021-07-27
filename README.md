@@ -1,6 +1,6 @@
 - 👋 Hi, I'm @mmarrari, a systems engineer from Argentina, passionate about technology.
 - 👀 I am interested in backend, frontend, machine learning, and blockchain development.
-- 🌱 I’m currently learning Ruby on Rails
+- 🌱 I’m currently learning Ruby on Rails.
 - 💞️ I’m looking to collaborate on web scraping projects.
 - 📫 How to reach me -> https://www.linkedin.com/in/mart%C3%ADn-marrari-61416131/
 
